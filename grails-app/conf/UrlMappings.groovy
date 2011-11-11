@@ -1,5 +1,4 @@
 class UrlMappings {
-
 	static mappings = {
 		"/$controller/$action?/$id?"{
 			constraints {
@@ -9,5 +8,7 @@ class UrlMappings {
 
 		"/"(view:"/index")
 		"500"(view:'/error')
+		"/login"(view:"/login")
+		"/home"(view:"/home")
 	}
 }
