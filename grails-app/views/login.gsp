@@ -4,12 +4,12 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>登入網路辦公室 eOffice</title>
   <!-- Ext -->
-  <link rel="stylesheet" type="text/css" href="${resource(dir: 'ext/resources/css', file: 'ext-all.css')}" />
-  <script type="text/javascript" src="${resource(dir: 'ext', file: 'ext-all.js')}"></script>
+  <!--<link rel="stylesheet" type="text/css" href="${resource(dir: 'ext/resources/css', file: 'ext-all.css')}" />
+  <script type="text/javascript" src="${resource(dir: 'ext', file: 'ext-all.js')}"></script>-->
   
   <!-- Ext CDN -->
-  <!--<link rel="stylesheet" type="text/css" href="http://cdn.sencha.io/ext-4.0.7-gpl/resources/css/ext-all.css" />
-  <script type="text/javascript" charset="utf-8" src="http://cdn.sencha.io/ext-4.0.7-gpl/ext-all-debug.js"></script>-->
+  <link rel="stylesheet" type="text/css" href="http://cdn.sencha.io/ext-4.0.7-gpl/resources/css/ext-all.css" />
+  <script type="text/javascript" charset="utf-8" src="http://cdn.sencha.io/ext-4.0.7-gpl/bootstrap.js"></script>
 
   <!-- page specific -->
   <style type="text/css">
